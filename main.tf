@@ -13,4 +13,6 @@ module "m-1" {
 
 module "m-2" {
   source = "./m-2"
+  
+  a = "happy"
 }
