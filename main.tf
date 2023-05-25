@@ -12,5 +12,5 @@ module "my_instance" {
 }
 
 module "m-2" {
-  source = "./practice_2"
+  source = "./m-2"
 }
